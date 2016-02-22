@@ -1,0 +1,30 @@
+{
+  "name": "portfolio2",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxwell Krause",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "connect-livereload": "^0.5.4",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-embedlr": "^0.5.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-util": "^3.0.7",
+    "tiny-lr": "^0.2.1"
+  }
+}
